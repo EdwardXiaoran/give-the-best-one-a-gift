@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/xml/androlua_filepaths.xml
+SHA1-Digest: 74TiZP8LQ217DgJKBCZaNLwAQT4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5cAG6EQfQ7ZlroUVNNkwhHChbYs=
+
+Name: res/drawable/welcome.png
+SHA1-Digest: yw2Qqjfz3wXPRlMJ/rrgswRZQk8=
+
+Name: lua/loadmenu.lua
+SHA1-Digest: 54qMaK8ktUDuZE6APtwqFABayec=
+
+Name: res/xml/accessibility_service_config.xml
+SHA1-Digest: r8Tuh5v3t3FdD9nyQc0BWEOBfCE=
+
+Name: res/drawable/icon.png
+SHA1-Digest: UX5Bys8DCNvCjTr9wYXd5cpuvIY=
+
+Name: res/xml-v22/accessibility_service_config.xml
+SHA1-Digest: aMOjF00YXPmKQn9HdgDB2y7Zoq0=
+
+Name: assets/0.mp3
+SHA1-Digest: QT7DLjUkNP2qwYV0S17zuxx4xaw=
+
+Name: lua/loadbitmap.lua
+SHA1-Digest: vnOmOiZLcqukneo2B0uciPf3tsA=
+
+Name: assets/init.lua
+SHA1-Digest: AI/HrcaQuhYazb8YFOkmzQgFWKo=
+
+Name: lib/armeabi-v7a/libluajava.so
+SHA1-Digest: M5i++uic43l+udAnEyUriZx8K1w=
+
+Name: resources.arsc
+SHA1-Digest: faHxTOI/wNVBzhlXxARoVhAEnbQ=
+
+Name: assets/main.lua
+SHA1-Digest: xicHU03dBk5a6olgM5wMxZYwJtE=
+
+Name: classes.dex
+SHA1-Digest: JhcBYOtYSnJfNy3Fdb6QO2T8NZo=
+
+Name: lua/loadlayout.lua
+SHA1-Digest: ixePCTeNFhCMwXVPpO2BuEZ6pp0=
+
+Name: lua/import.lua
+SHA1-Digest: +mD1nPYxqv3O0pbOuPhQg5BJ+i4=
+
